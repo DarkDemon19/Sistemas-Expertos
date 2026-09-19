@@ -1,0 +1,222 @@
+{
+  "main": {
+    "id": "af3032cba8f87539",
+    "type": "split",
+    "children": [
+      {
+        "id": "c8b3b45e7cf8e56a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2b9eea35b548fcc6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "raw/Spider-Man - Wikipedia, la enciclopedia libre.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Spider-Man - Wikipedia, la enciclopedia libre"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7c74914001edd4a5",
+    "type": "split",
+    "children": [
+      {
+        "id": "e5aff0b531312ab6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "51a2a15ddbf6f0ec",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "eab32a61ad7f6d11",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "afaa75c4138ed963",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "554ea83094296988",
+    "type": "split",
+    "children": [
+      {
+        "id": "13d78298c87b4260",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "261c3383de2b315f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes"
+            }
+          },
+          {
+            "id": "3c432dbe70095433",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes"
+            }
+          },
+          {
+            "id": "5fca6936e99e1a58",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "ec6aebaf2ba144bf",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas las propiedades"
+            }
+          },
+          {
+            "id": "1701ab6f94420553",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false,
+      "karpathywiki:Ingest current file": false,
+      "karpathywiki:Query wiki": false
+    }
+  },
+  "active": "2b9eea35b548fcc6",
+  "lastOpenFiles": [
+    "raw/Miles Morales (Tierra-1610).md",
+    "raw/Miguel O'Hara (Tierra-928).md",
+    "raw/Hobart Brown (Tierra-138).md",
+    "raw/Gwendolyn Stacy (Tierra-65).md",
+    "raw/30 CURIOSIDADES FLIPANTES DE SPIDER-MAN INTO THE SPIDER-VERSE.md",
+    "raw/30 CURIOSIDADES FLIPANTES DE SPIDER-MAN ACROSS THE SPIDERVERSE (2023).md",
+    "raw/Spider-Noir.md",
+    "raw/Spider-Man Noir (Spider-Verse Trilogy).md",
+    "raw/Spider-Man Across the Spider-Verse - Wikipedia, la enciclopedia libre.md",
+    "raw/Peter Porker (Tierra-8311).md",
+    "raw/Peter B. Parker (Serie de Películas de Spider-Verse).md",
+    "raw/Peni Parker (Tierra-14512).md",
+    "raw/Pavitr Prabhakar (Tierra-50101).md",
+    "raw/Nicolas Cage - Wikipedia, la enciclopedia libre.md",
+    "wiki/tema-spider-man.md",
+    "plantillas/fuente.md",
+    "plantillas/consulta.md",
+    "Wikipedia.md",
+    "RTVE.es.md",
+    "README.md",
+    "AGENTS.md",
+    "plantillas/tema.md",
+    "raw/Tom Holland - Wikipedia, la enciclopedia libre.md",
+    "wiki/tema-biblioteca-conocimiento.md",
+    "raw/Spider-Man - Wikipedia, la enciclopedia libre.md",
+    "wiki/tema-tom-holland.md",
+    "plantillas",
+    "wiki",
+    "raw"
+  ]
+}
